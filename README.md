@@ -2,7 +2,7 @@
 
 I am a student of Electronics and Electrical Communication Engineering at IIT Kharagpur. While this profile is primarily for storing my config (to say nothing of my incessant need to get everything perfect), I am currently learning some stuff so that I can redeem myself as a 'developer' who'd actually need a github profile. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssheersh&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssheersh&size_weight=0&count_weight=1&layout=compact&theme=radical)
 <!--**ssheersh/ssheersh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
